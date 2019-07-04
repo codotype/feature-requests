@@ -5,6 +5,7 @@ What is the nature of your request:
 - [ ] Core Feature
 - [ ] CLI Feature
 - [ ] UI Feature
+- [ ] Documentation
 - [ ] Other
 
 > Please describe your request below in as much detail as possible
